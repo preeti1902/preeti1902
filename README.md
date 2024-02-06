@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @preeti1902
-- 👀 I’m interested in Developing and coding...
-- 🌱 I’m currently trying to learn and work on AI
+  
   
 
 <!---
